@@ -1,3 +1,18 @@
-img {
+/* img { */
+  /* float: left; */
+
+}
+.sidebar {
+  width: 45%;
+  float: right;
+  background-color: blue;
+}
+#wholesite {
+  background-color: red;
+}
+.leftside {
+  width: 45%
+  background-color: green;
   float: left;
+
 }
