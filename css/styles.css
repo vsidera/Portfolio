@@ -5,8 +5,11 @@
   width: 480px;
   float: right;
   color: blue;
-  border-color: black;
-  border-radius: 10px;
+  border-top: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  border-bottom: 1px solid #999;
+  border-right: 1px solid #999;
+  box-shadow: 0 1px 1px #cccccc;
 }
 
 #wholesite {
@@ -14,7 +17,7 @@
   width: 1000px;
   height: auto;
   margin:0 auto;
-  padding:0;
+  padding:5px;
 
 }
 
@@ -22,5 +25,9 @@
   width: 480px;
   color: green;
   float: left;
-  border-color: black;
+  border-top: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  border-bottom: 1px solid #999;
+  border-right: 1px solid #999;
+  box-shadow: 0 1px 1px #cccccc;
 }
