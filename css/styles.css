@@ -58,3 +58,10 @@ img {
 .container {
   padding: 2px 16px;
 }
+
+
+  .footer {
+  background-color: blue;
+  width: 1000px;
+
+}
