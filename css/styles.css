@@ -1,18 +1,26 @@
 /* img { */
   /* float: left; */
 
-}
-.sidebar {
-  width: 45%;
+#rightbar {
+  width: 480px;
   float: right;
-  background-color: blue;
+  color: blue;
+  border-color: black;
+  border-radius: 10px;
 }
+
 #wholesite {
   background-color: red;
-}
-.leftside {
-  width: 45%
-  background-color: green;
-  float: left;
+  width: 1000px;
+  height: auto;
+  margin:0 auto;
+  padding:0;
 
+}
+
+#leftbar {
+  width: 480px;
+  color: green;
+  float: left;
+  border-color: black;
 }
