@@ -10,9 +10,11 @@ img {
 
 #rightbar {
   padding-left: 5px;
+  border-radius: 2px;
+  background-color: #954F42;
   width: 600px;
   float: right;
-  color: black;
+  color: #FCFCFC;
   font-size: 15px;
   font-family: monospace;
   border-top: 0px solid #ccc;
@@ -23,6 +25,7 @@ img {
 }
 
 #lowerrightbar {
+  background-color: #954F42;
   padding-left: 5px;
   padding-top: 20px;
   width: 600px;
@@ -47,9 +50,10 @@ img {
 }
 
 #leftbar {
+  background-color: #363861;
   padding-left: 5px;
   width: 360px;
-  color: black;
+  color: white;
   font-family: monospace;
   font-style: oblique;
   font-size: 15px;
