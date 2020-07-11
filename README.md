@@ -1,13 +1,14 @@
 # siderra portfolio
 #### It contains a brief history of my person and journey of programming, 11/07/2020
-#### By **siderra victor**
+## By **SIDERRA VICTOR**
 ## Description
 This portfolio has my personal information including my contacts. It details my educational journey
 as well as my journey through programming .There is also a brief explanation of my career during
 and post campus.
 Developers get a chance to see some of the projects that I have done, entirely by myself with guidance
 from my TM at Moringa School.
-
+##Link to the live site on gh-Pages
+https://vsidera.github.io/Portfolio/
 ## Setup/Installation Requirements
 * Internet Connection
 * Computer of Smart Phone
@@ -17,7 +18,7 @@ from my TM at Moringa School.
 This is still work in progress .Come back tomorrow and you might see some changes in the project.
 ## Technologies Used
 Languages I used here are:
-CSS
+CSS,
 HTML
 ## Support and contact details
 You are highly encouraged to make changes to the code and make pull and push requests .My contact
