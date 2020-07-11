@@ -7,7 +7,8 @@ as well as my journey through programming .There is also a brief explanation of 
 and post campus.
 Developers get a chance to see some of the projects that I have done, entirely by myself with guidance
 from my TM at Moringa School.
-##Link to the live site on gh-Pages
+
+Link to the live site on gh-Pages
 https://vsidera.github.io/Portfolio/
 ## Setup/Installation Requirements
 * Internet Connection
